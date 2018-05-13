@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\dsihra1_Test3\dsihra1_Test3\bin\Debug\dsihra1_Test3.dll
+C:\Users\Administrator\Desktop\dsihra1_Test3\dsihra1_Test3\bin\Debug\dsihra1_Test3.pdb
+C:\Users\Administrator\Desktop\dsihra1_Test3\dsihra1_Test3\obj\Debug\dsihra1_Test3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\dsihra1_Test3\dsihra1_Test3\obj\Debug\dsihra1_Test3.dll
+C:\Users\Administrator\Desktop\dsihra1_Test3\dsihra1_Test3\obj\Debug\dsihra1_Test3.pdb
+G:\dsihra1_Test3\dsihra1_Test3\bin\Debug\dsihra1_Test3.dll
+G:\dsihra1_Test3\dsihra1_Test3\bin\Debug\dsihra1_Test3.pdb
+G:\dsihra1_Test3\dsihra1_Test3\obj\Debug\dsihra1_Test3.csprojResolveAssemblyReference.cache
+G:\dsihra1_Test3\dsihra1_Test3\obj\Debug\dsihra1_Test3.csproj.CoreCompileInputs.cache
+G:\dsihra1_Test3\dsihra1_Test3\obj\Debug\dsihra1_Test3.dll
+G:\dsihra1_Test3\dsihra1_Test3\obj\Debug\dsihra1_Test3.pdb
